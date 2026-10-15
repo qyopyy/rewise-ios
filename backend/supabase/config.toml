@@ -1,0 +1,6 @@
+# Supabase CLI settings for the Rewise backend (project gctzysmrjbiqmolnopbm).
+project_id = "rewise"
+
+[functions.api]
+# The function checks Rewise access tokens itself.
+verify_jwt = false
